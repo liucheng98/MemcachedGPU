@@ -14,9 +14,9 @@ Prerequisites:
 
     - CUDA SDK Samples (e.g., NVIDIA_CUDA-5.5_Samples/)
 
-    - PF_RING version 6.0.0 (This was the version used)
+    - PF_RING version 6.0.0 (This was the version used) (http://www.ntop.org/products/packet-capture/pf_ring/)
 
-    - Libevent.
+    - Libevent. (http://libevent.org/)
 
     - GPUDirect setup: NVIDIA driver kernel (Follow the information here to setup GPUDirect http://docs.nvidia.com/cuda/gpudirect-rdma/index.html). 
 
